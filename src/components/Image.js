@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Image = props =>{
-
     return (
         <div id={props.class}>
             <div className="ptext">
